@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer and data enthusiast who
 - 🔭 I’m currently working on:  
   - **WebServer** – A simple yet powerful C# web server for learning and experimentation.
 - 🌱 I’m always learning new technologies and expanding my skillset.
-- 🧠 Interests: Data Science, Web Development, Machine Learning, and Creative Coding.
+- 🧠 Interests: Data Science, Fullstack, Web and Backend Development, Machine Learning, and Creative Coding.
 - 💬 Ask me about Python, Jupyter Notebooks, HTML/CSS/JS, and more.
 - 📫 How to reach me: [Your Email Here]  
 - ⚡ Fun fact: I enjoy building both front-end and back-end projects and am always up for a new tech challenge!
