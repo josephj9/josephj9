@@ -1,4 +1,4 @@
-# Hi there, I'm Joseph 👋
+# Hi there, I'm Joshua! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer and data enthusiast who loves building projects that blend creativity, analytics, and real-world impact.
 
