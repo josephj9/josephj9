@@ -70,4 +70,3 @@ Tailwind CSS
 Thanks for visiting my profile! 🚀
 
 ```
-> _Tip: You can personalize this even more with your bio, social links, or favorite quotes!_
