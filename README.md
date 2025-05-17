@@ -40,8 +40,6 @@ Tailwind CSS
 
 ## 📈 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josephj9&show_icons=true&theme=radical" alt="josephj9's GitHub stats" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephj9&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
