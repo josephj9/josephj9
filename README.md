@@ -65,8 +65,6 @@ Tailwind CSS
 - [**Movie-Recommender**](https://github.com/josephj9/Movie-Recommender)
 - [**Life-Expectancy-Predictor**](https://github.com/josephj9/Life-Expectancy-Predictor)
 
----
 
 Thanks for visiting my profile! 🚀
 
-```
