@@ -23,7 +23,7 @@ React, Pandas, Flask, SQLAlchemy, TensorFlow, Spring Boot
 PostgreSQL, SQLite, Redis
 
 **Messaging & Cloud:**  
-RabbitMQ, AWS S3
+Azure
 
 **Auth & APIs:**  
 JWT, RESTful APIs
