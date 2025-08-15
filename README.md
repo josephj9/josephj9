@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer and data enthusiast who
 
 ## 🚀 About Me
 - 🔭 I’m currently working on:  
-  - **WebServer** – A simple yet powerful C# web server for learning and experimentation.
+  - **InstantResume** – A powerful tool that allows you to tailor your resume based on job specfications
 - 🌱 I’m always learning new technologies and expanding my skillset.
 - 🧠 Interests: Data Science, Fullstack, Web and Backend Development, Machine Learning, and Creative Coding.
 - 💬 Ask me about Python, Jupyter Notebooks, HTML/CSS/JS, and more.
